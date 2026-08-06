@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Practice scratch — keep your own notes, ignore build/deps if you add code projects
+node_modules/
+__pycache__/
+*.log
+.env
