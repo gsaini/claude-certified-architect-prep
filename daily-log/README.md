@@ -14,5 +14,7 @@ One short entry per study day — what you covered, how confident you feel, and 
 | Date | Day | Domain | Topic | Confidence (1–5) |
 | ---- | --- | ------ | ----- | :--------------: |
 | [2026-08-06](2026-08-06.md) | 1 | Orientation | Logistics, blueprint check, self-assessment | _–_ |
+| [2026-08-07](2026-08-07.md) | 2 | 1 Solution Design | Business problem → architecture; value pillars | _–_ |
+| [2026-08-08](2026-08-08.md) | 3 | 1 Solution Design | The three pattern families | _–_ |
 
 > **Confidence scale:** 1 = shaky, 3 = okay, 5 = could teach it. Anything ≤ 2 goes on your revisit list for the next buffer day.
