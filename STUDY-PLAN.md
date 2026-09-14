@@ -9,16 +9,16 @@
 
 ## 📆 My calendar
 
-**Day 1 = Thu 2026-08-06 → exam day (Day 42) = Wed 2026-09-16.** Not booked yet — see [exam-logistics.md](resources/exam-logistics.md).
+**Day 1 = Thu 2026-08-06.** Days 1–4 were done Aug 6–8, then a pause. **Resumed Sun 2026-09-13 as Day 5** → exam day (Day 42) = **Tue 2026-10-20**. Not booked yet — see [exam-logistics.md](resources/exam-logistics.md).
 
 | Week | Days | Dates | Focus | Weight |
 | ---- | ---- | ----- | ----- | :----: |
-| W1 | 1–7 | Thu 06 – Wed 12 Aug | Orientation + **Solution Design & Architecture** | 17% |
-| W2 | 8–14 | Thu 13 – Wed 19 Aug | **Integration** | 19% |
-| W3 | 15–21 | Thu 20 – Wed 26 Aug | **Models/Prompting/Context** + Evaluation | 13% + 16% |
-| W4 | 22–28 | Thu 27 Aug – Wed 02 Sep | Evaluation finish + **Governance, Safety & Risk** | 14% |
-| W5 | 29–35 | Thu 03 – Wed 09 Sep | **Stakeholder & Lifecycle** + **Developer Productivity** | 14% + 7% |
-| W6 | 36–42 | Thu 10 – **Wed 16 Sep** | Mocks, final review, **exam** | — |
+| W1 | 1–7 | 1–4 ✅ Thu 06 – Sat 08 Aug · 5–7 Sun 13 – Tue 15 Sep | Orientation + **Solution Design & Architecture** | 17% |
+| W2 | 8–14 | Wed 16 – Tue 22 Sep | **Integration** | 19% |
+| W3 | 15–21 | Wed 23 – Tue 29 Sep | **Models/Prompting/Context** + Evaluation | 13% + 16% |
+| W4 | 22–28 | Wed 30 Sep – Tue 06 Oct | Evaluation finish + **Governance, Safety & Risk** | 14% |
+| W5 | 29–35 | Wed 07 – Tue 13 Oct | **Stakeholder & Lifecycle** + **Developer Productivity** | 14% + 7% |
+| W6 | 36–42 | Wed 14 – **Tue 20 Oct** | Mocks, final review, **exam** | — |
 
 ---
 
@@ -26,10 +26,10 @@
 
 | Day | Focus | Task |
 | --- | ----- | ---- |
-| **Day 1** ✅ | 📖 Orientation & logistics | Read [README](README.md) + this plan. ~~Confirm whether Foundations is a prerequisite~~ → **it is not**. Pick a target exam date → **Wed 2026-09-16**. Take the [self-assessment](practice/self-assessment.md). → [log](daily-log/2026-08-06.md) |
-| **Day 2** | 📖 Business problem → architecture | Translating a business problem into a Claude solution. The **value pillars** (efficiency, transformation, productivity, cost, performance/SLAs). The five discovery questions you ask *before* designing. |
-| **Day 3** | 📖 The three pattern families | **Augmented LLM · workflow · agentic.** When each fits, what choosing wrong costs, and how they compose. "Use the simplest thing that works." |
-| **Day 4** | 📖 End-to-end architecture | Input → processing → output → **feedback loop**. Where logging, evals, and human corrections attach. Designing for the failure path, not just the happy one. |
+| **Day 1** ✅ | 📖 Orientation & logistics | Read [README](README.md) + this plan. ~~Confirm whether Foundations is a prerequisite~~ → **it is not**. Pick a target exam date → ~~Wed 2026-09-16~~ **Tue 2026-10-20** (rescheduled 2026-09-13 after a pause). Take the [self-assessment](practice/self-assessment.md). → [log](daily-log/2026-08-06.md) |
+| **Day 2** ✅ | 📖 Business problem → architecture | Translating a business problem into a Claude solution. The **value pillars** (efficiency, transformation, productivity, cost, performance/SLAs). The five discovery questions you ask *before* designing. → [log](daily-log/2026-08-07.md) |
+| **Day 3** ✅ | 📖 The three pattern families | **Augmented LLM · workflow · agentic.** When each fits, what choosing wrong costs, and how they compose. "Use the simplest thing that works." → [log](daily-log/2026-08-08.md) |
+| **Day 4** ✅ | 📖 End-to-end architecture | Input → processing → output → **feedback loop**. Where logging, evals, and human corrections attach. Designing for the failure path, not just the happy one. → [log](daily-log/2026-08-08-day-04.md) |
 | **Day 5** | 📖 Orchestration patterns | Chaining, routing, parallelization, orchestrator–workers, evaluator–optimizer. Know *which pattern for which problem* — especially parallelization vs. orchestrator–workers. |
 | **Day 6** | 🎯 Multi-agent + decomposition drill | When multi-agent wins and its three real costs. Then: decompose a real business problem end-to-end on paper, with the pattern, the guardrails, and the feedback loop. |
 | **Day 7** | ☕ Buffer / 🔁 review | Catch up, or answer the [D1 self-check](domains/01-solution-design-architecture.md#-self-check) from memory. |
