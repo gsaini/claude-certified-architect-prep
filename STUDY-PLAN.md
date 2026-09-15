@@ -31,7 +31,7 @@
 | **Day 3** ✅ | 📖 The three pattern families | **Augmented LLM · workflow · agentic.** When each fits, what choosing wrong costs, and how they compose. "Use the simplest thing that works." → [log](daily-log/2026-08-08.md) |
 | **Day 4** ✅ | 📖 End-to-end architecture | Input → processing → output → **feedback loop**. Where logging, evals, and human corrections attach. Designing for the failure path, not just the happy one. → [log](daily-log/2026-08-08-day-04.md) |
 | **Day 5** ✅ | 📖 Orchestration patterns | Chaining, routing, parallelization, orchestrator–workers, evaluator–optimizer. Know *which pattern for which problem* — especially parallelization vs. orchestrator–workers. → [log](daily-log/2026-09-13.md) |
-| **Day 6** | 🎯 Multi-agent + decomposition drill | When multi-agent wins and its three real costs. Then: decompose a real business problem end-to-end on paper, with the pattern, the guardrails, and the feedback loop. |
+| **Day 6** ✅ | 🎯 Multi-agent + decomposition drill | When multi-agent wins and its three real costs. Then: decompose a real business problem end-to-end on paper, with the pattern, the guardrails, and the feedback loop. → [log](daily-log/2026-09-14.md) |
 | **Day 7** | ☕ Buffer / 🔁 review | Catch up, or answer the [D1 self-check](domains/01-solution-design-architecture.md#-self-check) from memory. |
 
 ## Week 2 — Integration ([D3](domains/03-integration.md), 19% — the largest domain)

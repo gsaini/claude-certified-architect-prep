@@ -7,7 +7,7 @@
 ![Certification](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Professional-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Plan](https://img.shields.io/badge/Plan-6%20weeks%20·%20daily-16A34A?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-Day%205%20of%2042-0EA5E9?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-Day%206%20of%2042-0EA5E9?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![Exam date](https://img.shields.io/badge/Target%20exam-2026--10--20-DC2626?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 </div>

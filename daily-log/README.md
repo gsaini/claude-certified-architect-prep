@@ -18,5 +18,6 @@ One short entry per study day — what you covered, how confident you feel, and 
 | [2026-08-08](2026-08-08.md) | 3 | 1 Solution Design | The three pattern families | _–_ |
 | [2026-08-08](2026-08-08-day-04.md) | 4 | 1 Solution Design | End-to-end architecture & feedback loops | _–_ |
 | [2026-09-13](2026-09-13.md) | 5 | 1 Solution Design | Orchestration patterns *(resumed after pause)* | _–_ |
+| [2026-09-14](2026-09-14.md) | 6 | 1 Solution Design | Multi-agent & decomposition drill | _–_ |
 
 > **Confidence scale:** 1 = shaky, 3 = okay, 5 = could teach it. Anything ≤ 2 goes on your revisit list for the next buffer day.
