@@ -38,7 +38,7 @@
 
 | Day | Focus | Task |
 | --- | ----- | ---- |
-| **Day 8** | 📖 Choosing the integration mechanism | **MCP vs. direct API/SDK vs. CLI vs. agent-to-agent.** The N×M → N+M argument, and when MCP is *not* worth the process boundary. |
+| **Day 8** ✅ | 📖 Choosing the integration mechanism | **MCP vs. direct API/SDK vs. CLI vs. agent-to-agent.** The N×M → N+M argument, and when MCP is *not* worth the process boundary. → [log](daily-log/2026-09-16.md) |
 | **Day 9** | 📖 MCP fundamentals | Host / client / server. The three primitives and **who controls each**. stdio vs. Streamable HTTP. Cross-ref: [MCP note](https://github.com/gsaini/awesome-software-engineering/blob/main/notes/model-context-protocol.md). |
 | **Day 10** | 📖 Tool design & capability bloat | Descriptions Claude won't misuse, enums and defaults, return shapes, error semantics. **Progressive discovery vs. monolithic context.** |
 | **Day 11** | 📖 RAG: chunking & indexing | Fixed / semantic / structural chunking. Dense vs. sparse vs. **hybrid**, metadata filters. Matching strategy to *data shape*. |
