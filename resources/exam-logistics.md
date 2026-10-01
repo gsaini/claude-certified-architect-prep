@@ -1,6 +1,6 @@
 # 🏛️ Exam Logistics — Verified Facts
 
-> **Verified:** 2026-08-06 (Day 1) · **Re-verified:** 2026-09-13 — no changes found · **Re-verify again:** Day 41 (Mon 2026-10-19), and any time the plan changes.
+> **Verified:** 2026-08-06 (Day 1) · **Re-verified:** 2026-09-13 — no changes found · **Re-verify again:** Day 41 (week of Wed 2026-12-09), and any time the plan changes.
 > Everything below is sourced. Where a fact could only be found on **third-party** sites, it is marked
 > ⚠️ *unconfirmed* — the authoritative source is Anthropic's own **Exam Guide PDF** on the
 > [certifications page](https://anthropic-partners.skilljar.com/), which requires a Partner Academy login.
@@ -47,7 +47,7 @@ Checked again before booking, after a five-week pause:
 
 - **Price:** still **$175** on the [official Skilljar certification page](https://anthropic-partners.skilljar.com/claude-certified-architect-professional-certification). No retirement or change notice.
 - **Blueprint:** still **Exam Guide v1.0, effective July 2026** — same 7 domains and weights, 63 items, 120 min, 720/1000, 12-month validity, same 14/30/90-day retake waits. ⚠️ Still third-party-sourced; the official PDF remains login-gated.
-- **Target date:** moved from Wed 2026-09-16 to **Tue 2026-10-20**. Still **not booked**.
+- **Target date:** moved from Wed 2026-09-16 to Tue 2026-10-20 — then to **Fri 2026-12-18** on 2026-09-30, when the plan moved to a 3-sessions-per-week cadence. Still **not booked**.
 
 ---
 
@@ -78,7 +78,7 @@ Checked again before booking, after a five-week pause:
 - [x] Confirm cost & delivery → **$125 / $175, Pearson VUE, proctored, closed-book**
 - [x] Pull the blueprint → **found a mismatch between this repo and CCAR-P; see above**
 - [x] **Decide the target tier** → **Professional (CCAR-P)**; repo rebuilt 2026-08-07
-- [ ] **Purchase + schedule** the exam — target **Tue 2026-10-20** ([STUDY-PLAN.md](../STUDY-PLAN.md))
+- [ ] **Purchase + schedule** the exam — target **Fri 2026-12-18** ([STUDY-PLAN.md](../STUDY-PLAN.md))
 - [ ] Open the official **Exam Guide PDF** after login and replace every ⚠️ above with a confirmed fact
 
 ---

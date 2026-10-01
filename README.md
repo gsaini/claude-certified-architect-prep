@@ -7,8 +7,8 @@
 ![Certification](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Professional-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Plan](https://img.shields.io/badge/Plan-6%20weeks%20·%20daily-16A34A?style=for-the-badge&logo=googlecalendar&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-Day%208%20of%2042-0EA5E9?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Exam date](https://img.shields.io/badge/Target%20exam-2026--10--20-DC2626?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-Day%209%20of%2042-0EA5E9?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Exam date](https://img.shields.io/badge/Target%20exam-2026--12--18-DC2626?style=for-the-badge&logo=googlecalendar&logoColor=white)
 
 </div>
 
@@ -61,7 +61,7 @@ claude-certified-architect-prep/
 ## 🚀 How to use this repo
 
 0. **Start with [resources/exam-logistics.md](resources/exam-logistics.md)** — which tier you're sitting, what it costs, and what's actually on it. Then take the [self-assessment](practice/self-assessment.md) to find your weak spots.
-1. **Read [STUDY-PLAN.md](STUDY-PLAN.md)** — the 6-week schedule with a concrete task for each day (dates: **Day 1 = 2026-08-06**, resumed as Day 5 on 2026-09-13 **→ exam 2026-10-20**).
+1. **Read [STUDY-PLAN.md](STUDY-PLAN.md)** — the 6-week schedule with a concrete task for each day (dates: **Day 1 = 2026-08-06**, now **3 sessions/week** from 2026-09-30 **→ exam 2026-12-18**).
 2. **Each day:** do that day's task using the linked [domain guide](domains/), then **write a short entry** in [daily-log/](daily-log/) (copy [TEMPLATE.md](daily-log/TEMPLATE.md)).
 3. **Weekends / buffer days:** review, do a [hands-on project](practice/), or catch up.
 4. **Weeks 5–6:** run the [design drills](scenarios/) and take timed [mock exams](practice/).
@@ -71,7 +71,7 @@ claude-certified-architect-prep/
 
 - [x] Day 1 — Orientation & logistics ([log](daily-log/2026-08-06.md) · [findings](resources/exam-logistics.md) · [self-assessment](practice/self-assessment.md)) — ⬜ *still to do: book the exam (target Tue 2026-10-20)*
 - [ ] Domain 1 — Solution Design & Architecture (17%) · Days 2–6
-- [ ] Domain 3 — Integration (19%) · Days 8–13
+- [ ] Domain 3 — Integration (19%) · Days 8–13 *(in progress)*
 - [ ] Domain 2 — Models, Prompting & Context (13%) · Days 15–18
 - [ ] Domain 4 — Evaluation, Testing & Optimisation (16%) · Days 19–23
 - [ ] Domain 5 — Governance, Safety & Risk (14%) · Days 24–27

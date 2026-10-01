@@ -1,24 +1,33 @@
 # 📅 The 6-Week Daily Study Plan
 
 > **Target: Claude Certified Architect – Professional (CCAR-P)** · 7 domains · 63 questions · 120 min · 720/1000 to pass.
-> **Pace:** ~1 hr/day, with weekly buffer days. **42 days total.**
+> **Pace:** ~1 hr per session, **3 sessions per week**. **42 sessions total.**
 > Each day has **one focused task**. After it, write a short entry in [daily-log/](daily-log/) (copy [TEMPLATE.md](daily-log/TEMPLATE.md)).
 > Domain time is allocated **by exam weight** — Integration (19%) gets the most days, Developer Productivity (7%) the fewest.
 
 **Legend:** 📖 read/study · 🛠️ hands-on · 🔁 review · 🎯 design drill · 🧪 mock exam · ☕ buffer/rest
 
-## 📆 My calendar
+## 📆 My schedule — 3 sessions per week
 
-**Day 1 = Thu 2026-08-06.** Days 1–4 were done Aug 6–8, then a pause. **Resumed Sun 2026-09-13 as Day 5** → exam day (Day 42) = **Tue 2026-10-20**. Not booked yet — see [exam-logistics.md](resources/exam-logistics.md).
+> **A "Day" below is a *session*, not a calendar day.** The numbering is kept so logs and links stay stable.
+> Do **3 sessions a week**, on whichever days suit you. Missing a Tuesday breaks nothing; missing a *week* is what slips the date.
 
-| Week | Days | Dates | Focus | Weight |
-| ---- | ---- | ----- | ----- | :----: |
-| W1 | 1–7 | 1–4 ✅ Thu 06 – Sat 08 Aug · 5–7 Sun 13 – Tue 15 Sep | Orientation + **Solution Design & Architecture** | 17% |
-| W2 | 8–14 | Wed 16 – Tue 22 Sep | **Integration** | 19% |
-| W3 | 15–21 | Wed 23 – Tue 29 Sep | **Models/Prompting/Context** + Evaluation | 13% + 16% |
-| W4 | 22–28 | Wed 30 Sep – Tue 06 Oct | Evaluation finish + **Governance, Safety & Risk** | 14% |
-| W5 | 29–35 | Wed 07 – Tue 13 Oct | **Stakeholder & Lifecycle** + **Developer Productivity** | 14% + 7% |
-| W6 | 36–42 | Wed 14 – **Tue 20 Oct** | Mocks, final review, **exam** | — |
+**Days 1–8 done** (Thu 06 Aug – Wed 16 Sep, with two pauses). **Resumed Wed 2026-09-30 at Day 9** at 3 sessions/week → exam **Fri 2026-12-18**. Not booked yet — see [exam-logistics.md](resources/exam-logistics.md).
+
+| Week | Dates | Sessions | Focus |
+| :--: | ----- | -------- | ----- |
+| **1** | Wed 30 Sep – Tue 06 Oct | Days 9, 10, 11 | Integration: MCP fundamentals · tool design · RAG chunking |
+| **2** | Wed 07 – Tue 13 Oct | Days 12, 13, 14 | Integration: retrieval & SLAs · auth + observability · 🛠️ build an MCP server |
+| **3** | Wed 14 – Tue 20 Oct | Days 15, 16, 17 | Models, prompting & context engineering |
+| **4** | Wed 21 – Tue 27 Oct | Days 18, 19, 20 | 🛠️ Extraction pipeline · eval metrics & datasets · grading methods |
+| **5** | Wed 28 Oct – Tue 03 Nov | Days 21, 22, 23 | Testing agents · diagnosis & optimisation · 🛠️ eval harness |
+| **6** | Wed 04 – Tue 10 Nov | Days 24, 25, 26 | Governance: control layers · prompt injection · compliance |
+| **7** | Wed 11 – Tue 17 Nov | Days 27, 28, 29 | HITL & ethics · ☕ buffer · structured discovery |
+| **8** | Wed 18 – Tue 24 Nov | Days 30, 31, 32 | Stakeholder: communicating · the hard conversations · lifecycle |
+| **9** | Wed 25 Nov – Tue 01 Dec | Days 33, 34, 35 | Claude Code for teams · 🛠️ configure a repo · ☕ buffer |
+| **10** | Wed 02 – Tue 08 Dec | Days 36, 37, 38 | 🧪 Mock #1 · review weakest · 🧪 Mock #2 |
+| **11** | Wed 09 – Tue 15 Dec | Days 39, 40, 41 | Review 2nd weakest + retake self-assessment · 🧪 Mock #3 · final review |
+| **12** | **Fri 18 Dec** | **Day 42** | 🏛️ **Exam** |
 
 ---
 
@@ -39,7 +48,7 @@
 | Day | Focus | Task |
 | --- | ----- | ---- |
 | **Day 8** ✅ | 📖 Choosing the integration mechanism | **MCP vs. direct API/SDK vs. CLI vs. agent-to-agent.** The N×M → N+M argument, and when MCP is *not* worth the process boundary. → [log](daily-log/2026-09-16.md) |
-| **Day 9** | 📖 MCP fundamentals | Host / client / server. The three primitives and **who controls each**. stdio vs. Streamable HTTP. Cross-ref: [MCP note](https://github.com/gsaini/awesome-software-engineering/blob/main/notes/model-context-protocol.md). |
+| **Day 9** ✅ | 📖 MCP fundamentals | Host / client / server. The three primitives and **who controls each**. stdio vs. Streamable HTTP. Cross-ref: [MCP note](https://github.com/gsaini/awesome-software-engineering/blob/main/notes/model-context-protocol.md). → [log](daily-log/2026-09-30.md) |
 | **Day 10** | 📖 Tool design & capability bloat | Descriptions Claude won't misuse, enums and defaults, return shapes, error semantics. **Progressive discovery vs. monolithic context.** |
 | **Day 11** | 📖 RAG: chunking & indexing | Fixed / semantic / structural chunking. Dense vs. sparse vs. **hybrid**, metadata filters. Matching strategy to *data shape*. |
 | **Day 12** | 📖 Retrieval & accuracy–latency | Top-k, reranking, query rewriting, multi-hop. Matching strategy to *query pattern*. Justifying a configuration against an SLA. |
@@ -98,7 +107,9 @@
 
 ## 📈 Pacing notes
 
-- **Behind schedule?** Use the ☕ buffer days (7, 14, 28, 35) — don't skip the hands-on days.
+- **Missed a session?** Just do it at the next one — the schedule counts *sessions per week*, not fixed weekdays.
+- **Missed a whole week?** Slide the week table down by one week and move the exam date with it. That's the only thing that actually slips the date.
+- **Behind schedule?** Use the ☕ buffer sessions (14, 28, 35) — don't skip the hands-on ones.
 - **Already strong on a domain?** Convert that day into extra design drills or an additional mock.
 - **Target ≥ 80% on mocks** before exam day; under that, push the date and repeat Week 6.
 - **The exam is closed-book and scenario-based** — prioritise *judgment* ("which pattern/control/model fits this situation, and why?") over memorising syntax.
