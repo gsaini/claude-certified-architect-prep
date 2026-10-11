@@ -49,7 +49,7 @@
 | --- | ----- | ---- |
 | **Day 8** ✅ | 📖 Choosing the integration mechanism | **MCP vs. direct API/SDK vs. CLI vs. agent-to-agent.** The N×M → N+M argument, and when MCP is *not* worth the process boundary. → [log](daily-log/2026-09-16.md) |
 | **Day 9** ✅ | 📖 MCP fundamentals | Host / client / server. The three primitives and **who controls each**. stdio vs. Streamable HTTP. Cross-ref: [MCP note](https://github.com/gsaini/awesome-software-engineering/blob/main/notes/model-context-protocol.md). → [log](daily-log/2026-09-30.md) |
-| **Day 10** | 📖 Tool design & capability bloat | Descriptions Claude won't misuse, enums and defaults, return shapes, error semantics. **Progressive discovery vs. monolithic context.** |
+| **Day 10** ✅ | 📖 Tool design & capability bloat | Descriptions Claude won't misuse, enums and defaults, return shapes, error semantics. **Progressive discovery vs. monolithic context.** → [log](daily-log/2026-10-10.md) |
 | **Day 11** | 📖 RAG: chunking & indexing | Fixed / semantic / structural chunking. Dense vs. sparse vs. **hybrid**, metadata filters. Matching strategy to *data shape*. |
 | **Day 12** | 📖 Retrieval & accuracy–latency | Top-k, reranking, query rewriting, multi-hop. Matching strategy to *query pattern*. Justifying a configuration against an SLA. |
 | **Day 13** | 📖 Auth/authz & observability | The service-account authorization trap, on-behalf-of identity, least privilege, multi-tenancy. Then: what to trace, what to sample, what to keep in full. |

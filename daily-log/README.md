@@ -21,5 +21,6 @@ One short entry per study day — what you covered, how confident you feel, and 
 | [2026-09-14](2026-09-14.md) | 6 | 1 Solution Design | Multi-agent & decomposition drill | _–_ |
 | [2026-09-16](2026-09-16.md) | 8 | 3 Integration | Choosing the integration mechanism | _–_ |
 | [2026-09-30](2026-09-30.md) | 9 | 3 Integration | MCP fundamentals *(cadence → 3/week)* | _–_ |
+| [2026-10-10](2026-10-10.md) | 10 | 3 Integration | Tool design & capability bloat | _–_ |
 
 > **Confidence scale:** 1 = shaky, 3 = okay, 5 = could teach it. Anything ≤ 2 goes on your revisit list for the next buffer day.
